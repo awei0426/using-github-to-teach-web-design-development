@@ -34,6 +34,8 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 [.footer: Introduction]
 
+![](images/Screenshot 2018-11-01 11.29.25.png)
+
 # Hi!
 
 * I’m Roy
