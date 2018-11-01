@@ -1,7 +1,7 @@
 slidenumbers: true
 autoscale: true
 build-lists: true
-theme: letters from sweden, 4
+theme: work, 1
 footer: Using GitHub to Teach Web Design/Development
 
 [.hide-footer]
