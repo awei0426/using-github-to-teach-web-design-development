@@ -19,7 +19,6 @@ Queens College
 * Be already logged in to GitHub’s web site
 * Check projector resolution
 * 1080p, 1080i, and 720p: 16:9
-* 4:3
 * Aspect ratio is set under Presentation menu
 * Fill water bottle
 
