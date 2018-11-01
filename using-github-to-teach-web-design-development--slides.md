@@ -24,7 +24,7 @@ Queens College
 
 ---
 
-[.hide-footer]
+[.footer: Slides]
 
 # Slides
 
