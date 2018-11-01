@@ -29,3 +29,12 @@ Queens College
 # Slides
 
 These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
+
+---
+
+[.footer: Introduction]
+
+# Hi!
+
+* I’m Roy
+* I teach web design and development
