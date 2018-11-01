@@ -62,7 +62,7 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 ![](images/15257471045_e6640070a2_o.jpg)
 
-## Who’s The Target Audience?
+# Who’s The Target Audience?
 
 * Design educators using tools such as Photoshop, Illustrator, InVision, Sketch, etc.
 * Computer scientists teaching engineering concepts using computer programs.
