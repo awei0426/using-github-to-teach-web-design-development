@@ -24,3 +24,9 @@ Queens College
 * Fill water bottle
 
 ---
+
+[.hide-footer]
+
+# Slides
+
+These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
