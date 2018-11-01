@@ -55,3 +55,15 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 4. How I use it in the classroom.
 5. How I use it for assignments.
 6. Q & A.
+
+---
+
+[.footer: Target Audience?]
+
+![](images/15257471045_e6640070a2_o.jpg)
+
+## Who’s The Target Audience? (1 of 5)
+
+* Design educators using tools such as Photoshop, Illustrator, InVision, Sketch, etc.
+* Computer scientists teaching engineering concepts using computer programs.
+* *Any* educator sharing computer files with their students.
