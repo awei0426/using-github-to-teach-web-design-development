@@ -45,6 +45,8 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 [.footer: Agenda]
 
+![](images/6508476351_f196a2f3e8_o.jpg)
+
 # Agenda
 
 1. Who’s the target audience?
