@@ -67,3 +67,39 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 * Design educators using tools such as Photoshop, Illustrator, InVision, Sketch, etc.
 * Computer scientists teaching engineering concepts using computer programs.
 * *Any* educator sharing computer files with their students.
+
+---
+
+[.footer: What is GitHub? (2 of 5)]
+
+![](images/Screenshot 2018-11-01 14.51.09.png)
+
+# What is GitHub?
+
+- It allows users to keep track of changes made to a project — whether it’s a programming project, a design project, or both.
+- It promotes the concept of divide-and-conquer through “branching,” a technique that allows learners to work on sections of a project independently.
+- It encourages sharing in an open source manner, which is especially helpful in the classroom.
+- It is much more than I can explain in 20 minutes.
+
+---
+
+[.footer: What is GitHub? (2 of 5)]
+
+![](images/Screenshot 2018-11-01 14.51.09.png)
+
+# What is GitHub?
+
+- GitHub is comprised of a web site *and* a local application.
+    1. Web site: [https://github.com](https://github.com)
+    2. Desktop application: [https://desktop.github.com/](https://desktop.github.com/)
+
+---
+
+[.footer: What is GitHub? (2 of 5)]
+
+![](images/Screenshot 2018-11-01 14.51.09.png)
+
+# What is GitHub?
+
+* Public projects are *free*; private projects require a fee.
+* Students and educators are eligible for *free* private projects at [https://education.github.com/](https://education.github.com/).
