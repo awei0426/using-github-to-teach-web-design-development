@@ -40,3 +40,16 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 * I’m Roy
 * I teach web design and development
+
+---
+
+[.footer: Agenda]
+
+# Agenda
+
+1. Who’s the target audience?
+2. What is GitHub?
+3. GitHub’s pros and cons.
+4. How I use it in the classroom.
+5. How I use it for assignments.
+6. Q & A.
