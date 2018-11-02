@@ -183,8 +183,8 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 # [fit] Links
 
-__Slides__ [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)    
 __GitHub__ [https://github.com/code-warrior/](http://bit.ly/2CWNNaF)  
+__Slides__ [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)  
 
 ---
 
