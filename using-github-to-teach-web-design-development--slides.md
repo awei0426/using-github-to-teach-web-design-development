@@ -51,8 +51,7 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 2. What is GitHub?
 3. GitHub’s pros and cons.
 4. How I use it in the classroom.
-5. How I use it for assignments.
-6. Q & A.
+5. Q & A.
 
 ---
 
