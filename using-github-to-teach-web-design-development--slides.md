@@ -16,6 +16,7 @@ Queens College
 ## 2 November 2018
 
 ^
+* Start QuickTime
 * Be already logged in to GitHub’s web site
 * Check projector resolution
 * 1080p, 1080i, and 720p: 16:9
@@ -132,11 +133,13 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 * Nearly impossible to lose work.
 * Design ideas are shared through assignment submissions.
 * No need to take detailed notes.
+* Free web site available to potential schools/employers at `<username>.github.io`.
 
 ^
 * Just about everything can be retrieved with GitHub.
 * Every learner can see how their peers created their work, and learn from it.
 * In-class work is documented in a live coding situation, step-by-step.
+* Indicates that the learner knows GitHub.
 
 ---
 
