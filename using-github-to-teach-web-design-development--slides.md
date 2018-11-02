@@ -157,3 +157,11 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 * Using tags, I can easily assign a repo to a course.
 * Having everyone submit the same file in different branches makes it easy to distinguish one learner’s work from another.
 * Git diffs make it easy to identify how similar two or more repos are, and which one came first.
+
+---
+
+[.footer: Q & A (5 of 5)]
+
+![filtered](images/japanese-1206509_1920.jpg)
+
+# [fit] Q & A
