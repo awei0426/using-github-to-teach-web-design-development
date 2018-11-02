@@ -92,7 +92,69 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 ---
 
-[.footer: What is GitHub? (2 of 5)]
+[.footer: GitHub’s Pros and Cons? (3 of 5)]
 
-![](images/Screenshot 2018-11-01 14.51.09.png)
+![](images/pros-and-cons.jpg)
 
+# GitHub’s Pros and Cons?
+
+## (Some) Cons (for the Learner)
+* Steep learning curve.
+* Requires a new learning paradigm.
+* Learning is more proactive.
+
+^
+* Careful attention is required, especially at the outset.
+* Note-taking is different, because I write the notes for you.
+* Adding GitHub to a learner’s workflow means there is more software to manage.
+
+---
+
+[.footer: GitHub’s Pros and Cons? (3 of 5)]
+
+![](images/pros-and-cons.jpg)
+
+# GitHub’s Pros and Cons?
+
+## (Some) Cons (for the Educator)
+* Onboarding is difficult, as students stray early on.
+* Core concepts must be repeated…for weeks.
+* Focused attention required for in-class examples.
+
+---
+
+[.footer: GitHub’s Pros and Cons? (3 of 5)]
+
+![](images/pros-and-cons.jpg)
+
+# GitHub’s Pros and Cons?
+
+## (Some) Pros (for the Learner)
+* Nearly impossible to lose work.
+* Design ideas are shared through assignment submissions.
+* No need to take detailed notes.
+
+^
+* Just about everything can be retrieved with GitHub.
+* Every learner can see how their peers created their work, and learn from it.
+* In-class work is documented in a live coding situation, step-by-step.
+
+---
+
+[.footer: GitHub’s Pros and Cons? (3 of 5)]
+
+![](images/pros-and-cons.jpg)
+
+# GitHub’s Pros and Cons?
+
+## (Some) Pros (for the Educator)
+* Easy to disperse lectures to learners.
+* Easy to distinguish lectures between classes.
+* Easy to switch between learners on crit days.
+* Easy to uncover plagiarism between learners.
+
+^
+* Slack a link to all my students in real time.
+* Using tags, I can easily assign a repo to a course.
+* Having everyone submit the same file in different branches makes it easy to distinguish one learner’s work from another.
+* Git diffs make it easy to identify how similar two or more repos are, and which one came first.
