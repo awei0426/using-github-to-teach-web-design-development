@@ -173,3 +173,14 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![filtered](images/japanese-1206509_1920.jpg)
 
 # [fit] Q & A
+
+---
+
+[.hide-footer]
+
+# [fit] Links
+
+__Slides__ [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)    
+__GitHub__ [https://github.com/code-warrior/](http://bit.ly/2CWNNaF)  
+
+---
