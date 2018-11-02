@@ -168,6 +168,25 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![fit](images/github-chalkboard.png)
 
 # How I use GitHub in the Classroom
+## In-class Workflow
+
+1. Live Demo (in `demo` folder)
+2. [https://github.com/code-warrior/week-8--29-october-2018](https://github.com/code-warrior/week-8--29-october-2018)
+
+^
+* Show image diff: “Blur the background image used in the intro slide”
+
+---
+
+[.footer: How I use GitHub in the Classroom (4 of 5)]
+
+![fit](images/github-chalkboard.png)
+
+# How I use GitHub in the Classroom
+## Assignments
+### Branch Name per Student
+
+[https://github.com/code-warrior/the-focus-assignment](https://github.com/code-warrior/the-focus-assignment)
 
 ---
 
