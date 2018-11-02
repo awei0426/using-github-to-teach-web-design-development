@@ -197,3 +197,9 @@ __GitHub__ [https://github.com/code-warrior/](http://bit.ly/2CWNNaF)
 * __Remaining images__: The author
 
 ---
+
+[.hide-footer]
+
+## [fit] Contact Me?
+
+__Email__: [roy.vanegas@qc.cuny.edu](roy.vanegas@qc.cuny.edu)
