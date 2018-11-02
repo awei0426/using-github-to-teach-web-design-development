@@ -184,3 +184,16 @@ __Slides__ [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 __GitHub__ [https://github.com/code-warrior/](http://bit.ly/2CWNNaF)  
 
 ---
+
+[.hide-footer]
+[.build-lists: false]
+
+# [fit] Image Credits
+
+* __Slide 4__: Flickr user [niftynotebook](https://www.flickr.com/photos/33237593@N06/6508476351/in/photolist-aV8Dgv-dKG6BS-4LJRab-bnad4V-koTkh6-bUvSUG-uyQvQ-gqt9vf-P3aGcq-aF1x5-b2aQDa-6cbUb2-7giHHi-ar1TbU-4vTfNx-6tra2K-6jd56X-55RVJ-ar1Tc7-7jjGyz-2baQhek-o5yTXU-7aKGH8-uJQat-5KAPnQ-ai7LJd-2azpvf4-9YRGcq-dw1xqi-29CjDm7-9z2JU-5KAMZ9-58xtd-26VZuhF-WnNhdh-58xqY-kL5V69-2aHNPHc-5KAMTo-SH89YT-2b7kWTm-REwjeP-5Kwy2a-WnMaby-CjLocr-VR6JAd-q95fz8-6keSjR-nhM25x-R5HCA1)  
+* __Slide 5__: Flickr user [marc thiele](https://www.flickr.com/photos/marcthiele/15257471045/in/photolist-pffwzB-8sjDDr-7zynaA-8AHtFV-qRo4AH-8nhxr8-nxnGPo-aoH2bs-gZujGW-84gpEL-7DaQsL-28EKo4q-c5z4DA-2aNxX1b-eGQz2Z-5DtMdS-oNoJDT-5vvtsJ-3pAW5f-nfBbQ-dh4hSj-q5iaNp-b62io2-9LZCe3-oNCHHs-MVpHj-4TirNg-82x6W-8VjMQU-eQWoN8-dh4tFt-u8QYJ-cVvcPh-beSP2i-a55GWP-8EinDk-xWzFB-a6n9oF-8uKZWd-7hAama-BsK97-9dZ95L-mZMRK4-9JCZCm-9sufZk-8yV5PB-dh4icF-SZbPC-a55FMV-a55PkM)  
+* __Slide 12__: Courtesy of [GitHub](https://classroom.github.com/assets/classroom-logo-ff9c909474c8ce6139ed245d34ffea33ccf2d6956857b61baed7d0705aeb8665.png)  
+* __Slide 13__: Pixabay user [ijmaki](https://pixabay.com/en/japanese-male-businessman-question-1206509/)
+* __Remaining images__: The author
+
+---
