@@ -37,7 +37,6 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/Screenshot 2018-11-01 11.29.25.png)
 
 # Hi!
-
 * I’m Roy
 * I teach web design and development
 
@@ -48,8 +47,7 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/6508476351_f196a2f3e8_o.jpg)
 
 # Agenda
-
-1. Who’s the target audience?
+1. Who is the target audience?
 2. What is GitHub?
 3. GitHub’s pros and cons.
 4. How I use it in the classroom.
@@ -63,7 +61,6 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/15257471045_e6640070a2_o.jpg)
 
 # Who’s The Target Audience?
-
 * Design educators using tools such as Photoshop, Illustrator, InVision, Sketch, etc.
 * Computer scientists teaching engineering concepts using computer programs.
 * *Any* educator sharing computer files with their students.
@@ -75,11 +72,10 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/Screenshot 2018-11-01 14.51.09.png)
 
 # What is GitHub?
-
-- It allows users to keep track of changes made to a project — whether it’s a programming project, a design project, or both.
-- It promotes the concept of divide-and-conquer through “branching,” a technique that allows learners to work on sections of a project independently.
-- It encourages sharing in an open source manner, which is especially helpful in the classroom.
-- It is much more than I can explain in 20 minutes.
+* It allows users to keep track of changes made to a project — whether it’s a programming project, a design project, or both.
+* It promotes the concept of divide-and-conquer through “branching,” a technique that allows learners to work on sections of a project independently.
+* It encourages sharing in an open source manner, which is especially helpful in the classroom.
+* It is much more than I can explain in 20 minutes.
 
 ---
 
@@ -88,8 +84,7 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/Screenshot 2018-11-01 14.51.09.png)
 
 # What is GitHub?
-
-- GitHub is comprised of a web site *and* a local application.
+* GitHub is comprised of a web site *and* a local application.
     1. Web site: [https://github.com](https://github.com)
     2. Desktop application: [https://desktop.github.com/](https://desktop.github.com/)
 
@@ -100,6 +95,5 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 ![](images/Screenshot 2018-11-01 14.51.09.png)
 
 # What is GitHub?
-
 * Public projects are *free*; private projects require a fee.
 * Students and educators are eligible for *free* private projects at [https://education.github.com/](https://education.github.com/).
