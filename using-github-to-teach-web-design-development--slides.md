@@ -160,6 +160,14 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 ---
 
+[.footer: How I use GitHub in the Classroom (4 of 5)]
+
+![fit](images/github-chalkboard.png)
+
+# How I use GitHub in the Classroom
+
+---
+
 [.footer: Q & A (5 of 5)]
 
 ![filtered](images/japanese-1206509_1920.jpg)
