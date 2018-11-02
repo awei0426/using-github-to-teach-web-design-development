@@ -172,7 +172,7 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 1. Live Demo (in `demo` folder)
    + Web site for repository link.
-   + GitHub Desktop appliaction for branch switching.
+   + GitHub Desktop application for branch switching.
    + Atom as the text editor.
    + Browser.
 2. [https://github.com/code-warrior/week-8--29-october-2018](https://github.com/code-warrior/week-8--29-october-2018)
