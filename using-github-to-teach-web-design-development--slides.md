@@ -87,6 +87,8 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 * GitHub is comprised of a web site *and* a local application.
     1. Web site: [https://github.com](https://github.com)
     2. Desktop application: [https://desktop.github.com/](https://desktop.github.com/)
+* Public projects are *free*; private projects require a fee.
+* Students and educators are eligible for *free* private projects at [https://education.github.com/](https://education.github.com/).
 
 ---
 
@@ -94,6 +96,3 @@ These slides are available at [http://bit.ly/2CWNNaF](http://bit.ly/2CWNNaF)
 
 ![](images/Screenshot 2018-11-01 14.51.09.png)
 
-# What is GitHub?
-* Public projects are *free*; private projects require a fee.
-* Students and educators are eligible for *free* private projects at [https://education.github.com/](https://education.github.com/).
